@@ -1,4 +1,4 @@
-imagename {
+.imagename {
     font-size: medium;
     font-weight: bold;
     color: blue;
@@ -6,7 +6,6 @@ imagename {
     font-family: cursive;
     
   }
-  
   #topic {
     font-size: larger;
     font-weight: bolder;
